@@ -31,10 +31,10 @@ https://www.clarin.com/gourmet/panchos-gustos-opciones-imperdibles-probar-buenos
 
 ### aca abajo de te dejamos una par de imagenes de panchos para que uses de referencia
 
-![alt text](image.png)
+![alt text](pancho1.png)
 
-![alt text](image-1.png)
+![alt text](pancho2.png)
 
-![alt text](image-2.png)
+![alt text](pancho3.png)
 
-![alt text](image-3.png)
+![alt text](pancho4.png)
